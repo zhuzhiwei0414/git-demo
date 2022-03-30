@@ -1,6 +1,5 @@
-
 hello zhuzhiwei! hello git! master test
-hello zhuzhiwei! hello git!
+hello zhuzhiwei! hello git! hot-fix test
 hello zhuzhiwei! hello git!
 hello zhuzhiwei! hello git!
 hello zhuzhiwei! hello git!
